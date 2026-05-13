@@ -1,2 +1,6 @@
 # Google-Workspace-Demo
-Google Workspace Personal Tenant  - Management of BTWORX.NET
+
+
+In this portfolio, I showcase my personal Google Workspace tenant and the full setup and management of the BTWORX.NET domain.
+
+
