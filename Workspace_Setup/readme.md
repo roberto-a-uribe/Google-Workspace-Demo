@@ -1,9 +1,6 @@
-Initial Setup Stage
+## Initial Google Workspace Setup Stage
 
-Domain and Workspace setup
-
-
-
+💡Domain Business Name and Workspace setup/Registration
 
 
 ![Workspace_Setup](Create-1.JPG)
