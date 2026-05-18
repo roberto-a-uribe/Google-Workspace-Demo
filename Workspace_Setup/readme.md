@@ -12,6 +12,9 @@
 
 ![Workspace_Setup](btworx-2.JPG)
 
+## Create a new domain 
+
+
 ![Workspace_Setup](custom-domain-1.JPG)
 
 ![Workspace_Setup](btworx-5-new-user.JPG)
