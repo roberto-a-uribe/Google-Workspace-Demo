@@ -1,7 +1,7 @@
 # 🌍 Google-Workspace-Demo
 
 
-## 🔭 In this portfolio, I will showcase my personal Google Workspace tenant and the full setup and management of the BTWORX.NET domain which setup using Squarespace hosting.
+## 🔭 In this portfolio, I will showcase my personal Google Workspace tenant and the full setup and management of the BTWORX.NET domain which was purchased using Squarespace domain hosting.
 
 
 1) [Initial Setup Stages](https://github.com/roberto-a-uribe/Google-Workspace-Demo/tree/main/Workspace_Setup)
