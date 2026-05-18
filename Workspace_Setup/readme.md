@@ -13,3 +13,16 @@
 
 ![Workspace_Setup](btworx-2.JPG)
 
+![Workspace_Setup](custom-domain-1.JPG)
+
+
+![Workspace_Setup](btworx-5-new-user.JPG)
+
+![Workspace_Setup](btworx-6.JPG)
+
+![Workspace_Setup](btworx-7-dashboard.JPG)
+
+![Workspace_Setup](btworx-7.JPG)
+
+
+
